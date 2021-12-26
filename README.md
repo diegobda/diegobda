@@ -29,7 +29,7 @@ You can find me on
 
 </div>
     
-
+  ![Snake animation](https://github.com/diegobda/diegobda/blob/output/github-contribution-grid-snake.svg)
 
 ##- 🔭 I am currently working on... solo projects and studying
 - 🌱 I'm currently learning ...C#, Javascript, Python
