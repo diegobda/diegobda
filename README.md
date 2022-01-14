@@ -1,7 +1,7 @@
 
  ### Hi there 👋Hello, I'm Diego Santos from Gyn in the Brazil!![]
  
-💻  Software Engineer study, linux, c#,  typescript, javascrip,python and cyber-security .net
+💻  Software Engineer study, linux, c#,  javascrip,python and cyber-security .net
 🏡   Brazilian, Based in Goiânia, Go - but most of the time traveling around the world 🌎
 
 You can find me on
