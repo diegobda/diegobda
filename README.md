@@ -30,6 +30,11 @@ You can find me on
  </li>
      <li><img align="center" alt="Windowns XP" src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/>
  </li>
+   <h2> Conhecimento avançado em sofwares de Edição e Design Corel, Photoshop, Indesign.</h2>
+    <li><img align="center" alt="Ilustration" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+</li>
+    <li><img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+ </li>
 </ul>
  </div>
  
