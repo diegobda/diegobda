@@ -10,15 +10,10 @@ You can find me on
 📷   Unsplash
 ⚛️  [Linkedin](https://www.linkedin.com/in/diegolinkedin/)
 
-<>
 <ul>
-  <li><img align="center" alt="(62) 9 9801-8126" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <li><img align="center" alt="(62) 9 9801-8126" href="https://api.whatsapp.com/send?phone=+5562998018126" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
  </li>
-
-
-</>
-
-:phone: (62) 9 9801-8126
+ :phone: (62) 9 9801-8126
 
 # Alguns eu domino outros estou apreendendo!!
 
