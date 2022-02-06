@@ -14,6 +14,8 @@ You can find me on
   <li><img align="center" alt="(62) 9 9801-8126" href="https://api.whatsapp.com/send?phone=+5562998018126" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
  </li>
  :phone: (62) 9 9801-8126
+ ⚛️  [Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 
 
