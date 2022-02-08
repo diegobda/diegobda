@@ -11,10 +11,10 @@ You can find me on
 ⚛️  [Linkedin](https://www.linkedin.com/in/diegolinkedin/)
 
 <ul>
-  <li><img align="center" alt="(62) 9 9801-8126" href="https://api.whatsapp.com/send?phone=+5562998018126" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">(62) 99801-8126</>
+  <li><img align="center" alt="(62) 9 9801-8126" href="https://api.whatsapp.com/send?phone=+5562998018126" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> :phone:(62) 99801-8126</>
  </li>
- :phone:
-   <li><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> (62) 9 9801-8126</>
+
+   <li><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  :email:📫diegodba9@gmail.com</>
 
 
 
