@@ -79,7 +79,7 @@ You can find me on
  
 </ul>
 </div>
-   <h2>Fizo céu e o límite</h2>
+   <h2>Fiz o céu o límite</h2>
 <li><img align="center" alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white"/></li>
 <li><img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></li>
 <li><img align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></li>
