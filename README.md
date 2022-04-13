@@ -1,8 +1,8 @@
 
- ### Hi there 👋Hello, I'm Diego Santos from Gyn in the Brazil!![]
+ ### Hi there 👋Hello, I'm Diego Santos from Gyn in Brazil!![]
  
-💻  Software Systems Analysis study, linux, javascrip, python and cyber-security Kali Linux,
-🏡   Brazilian, Based in Goiânia, Go - but most of the time traveling around the world 🌎
+💻 I work with Software Systems, I am Analysit and study  linux, javascrip, python and cyber-security. I love used to nice Kali Linux,
+🏡   Brazilian, Based in Goiânia, Go - but most of the time traveling around the country 🌎
 
 You can find me on
 📺   Youtube
