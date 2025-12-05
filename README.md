@@ -1,100 +1,90 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=2000&color=00FF88&center=true&vCenter=true&width=700&lines=Diego+dba+%7C+Cybersecurity+%26+Pentest;Engenheiro+de+TI+%7C+Linux+%7C+DevOps+%7C+Automation;Always+learning%2C+always+hacking." />
+</h1>
 
- ### Hi there 👋Hello, I'm Diego Santos from Gyn in Brazil!![]
- 
-💻 I work with Software Systems, I am Analysit and study  linux, javascrip, python and cyber-security. I love used to nice Kali Linux,
-🏡   Brazilian, Based in Goiânia, Go - but most of the time traveling around the country 🌎
+---
 
-You can find me on
-📺   Youtube
-🐦   [Twitter](https://twitter.com/diegodba9)
-📷   Unsplash
-⚛️  [Linkedin](https://www.linkedin.com/in/diegolinkedin/)
+<div align="center">
 
-<ul>
-  <li><img align="center" alt="(62) 9 9801-8126" href="https://api.whatsapp.com/send?phone=+5562998018126" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> :phone:(62) 99801-8126</>
- </li>
+### 🔥 **Cybersecurity | Pentest | Offensive Security | Automação**
+### 🧪 Hardening • Red Team • Linux • ShellScript • Networking  
+### ⚡ Dev focado em segurança — code, break, fix, repeat.
 
-   <li><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  :email:📫diegodba9@gmail.com</>
-
-
-
-
-<div>
- <h1>Conhecimento Intermediário</h1>
-<ul>
-  <li><img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
- </li>
-   <li><img align="center" alt="WINDOWS" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
- </li>
-    <li><img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
- </li>
-    <li><img align="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
- </li>
-        <li><img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
- </li>
-     <li><img align="center" alt="Windowns XP" src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/>
- </li>
-   <h2> Conhecimento avançado em sofwares de Edição e Design Corel, Photoshop, Indesign.</h2>
-    <li><img align="center" alt="Ilustration" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-</li>
-    <li><img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
- </li>
-
-</ul>
- </div>
- 
- <div>
- <h2>Skill Principais</h2>
-<ul>
-  <li><img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
- </li>
-   <li><img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
- </li>
-    <li><img align="center" alt="JAvascrip" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- </li>
-    <li><img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- </li>
-     <li><img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- </li>
-     <li><img align="center" alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
- </li>
-  <li><img align="center" alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
- </li>
-</ul>
- </div>
- 
- 
- <div>
- <h2>Fiz alguma coisa o outra ou estou apreendendo</h2>
-<ul>
-  <li><img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
- </li>
-   <li><img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
- </li>
-    <li><img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
- </li>
-     <li><img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
- </li>
-
- 
-</ul>
 </div>
-   <h2>Fiz o céu o límite</h2>
-<li><img align="center" alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white"/></li>
-<li><img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></li>
-<li><img align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></li>
-<li><img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/></li>
-<li><img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></li>
-<li></li>
-<li></li>
 
+---
 
-    
+## 🟩 **Sobre mim**
+Sou um profissional de tecnologia movido por desafios, com foco em:
 
-##- 🔭 I am currently working on... solo projects and studying
-- 🌱 I'm currently learning ...C#, Javascript, Python
-- 👯 I'm looking to collaborate on ...SCRum
-- 🤔 I'm looking for help with ...SCRUM and Agile jobs
-- 💬 Ask me about...
-- 📫 How to reach me: ... send an email to diegodba9@gmail.com- 😄 see you soon
--->
+- **Cyber Segurança (Pentest & Hardening)**
+- **Programação aplicada à segurança (Python, Bash, C)**  
+- **DevOps / Automação / Linux Avançado**
+- **Análise de Tráfego, Exploração e Engenharia Reversa**
+- **Projetos de ferramentas próprias** (veja no meu GitHub 👇)
+
+Gosto de transformar complexidade em eficiência e aplicar código como arma dentro da segurança ofensiva.
+
+---
+
+## 🟩 **Tech Stack — estilo neon hacker**
+
+### 🛡️ **Cyber Segurança & Pentest**
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-00FF88?style=for-the-badge&logo=kali-linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Parrot_OS-00FF88?style=for-the-badge&logo=parrot-security&logoColor=black" />
+  <img src="https://img.shields.io/badge/Metasploit-00FF88?style=for-the-badge&logo=metasploit&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nmap-00FF88?style=for-the-badge&logo=nmap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark-00FF88?style=for-the-badge&logo=wireshark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Burp_Suite-00FF88?style=for-the-badge&logo=burp-suite&logoColor=black" />
+</p>
+
+### 💻 **Linguagens & Automação**
+<p>
+  <img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-00FF88?style=for-the-badge&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00FF88?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-00FF88?style=for-the-badge&logo=sqlite&logoColor=black" />
+</p>
+
+### 🐧 **Linux / DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-00FF88?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-00FF88?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI%2FCD-00FF88?style=for-the-badge&logo=githubactions&logoColor=black" />
+</p>
+
+---
+
+## 🟩 **Projetos em destaque**
+> _Ferramentas e scripts que mostram minha evolução em cyber segurança e automação._
+
+🔹 **Pentest Tools** — scanners, bruteforce, automações  
+🔹 **Linux Hardening Scripts**  
+🔹 **Ferramentas de análise de rede**  
+🔹 **Bots em Python para automação**  
+🔹 **Projetos em C para estudos de baixo nível**
+
+*(O conteúdo será atualizado constantemente conforme minhas pesquisas e commits.)*
+
+---
+
+## 🟩 **GitHub Stats — Neon Mode**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devellopers&show_icons=true&theme=chartreuse-dark&title_color=00FF88&text_color=00FF88&icon_color=00FF88&border_color=00FF88" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devellopers&theme=chartreuse-dark&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
+</div>
+
+---
+
+## 🟩 **Animação Estilo Hacker**
+
+```bash
+root@devellopers:~# initializing...
+>> loading pentest modules...
+>> loading automation scripts...
+>> loading neural interface...
+>> system status: ONLINE
