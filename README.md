@@ -1,10 +1,7 @@
 
 ---
 
-# 🟩 **TEMA 3 — Black Ninja (Minimal + Violento no Neon)**  
-### (Estilo super limpo, direto e forte)
-
-```markdown
+```
 <h1 align="center" style="color:#00ff55;">🟩 Diego dba — Full Stack Developer</h1>
 
 <p align="center">
